@@ -16,7 +16,7 @@ const Footer = () => {
             </div>
         </div>
         <div className="footer-content-center">
-            <h2><b>Moms-Magic</b></h2>
+            <h2><b>Tomato</b></h2>
             <ul>
                 <li>Home</li>
                 <li>About us</li>
@@ -28,12 +28,12 @@ const Footer = () => {
             <h2><b>Get In Touch</b></h2>
             <ul>
                 <li>+012-456-784-4596</li>
-                <li>contact@momsmagic.com</li>
+                <li>contact@Tomato.com</li>
             </ul>
         </div>
       </div>
       <hr/>
-      <p className='footer-copyright'>Copyright 2024 @momsmagic.com -All Right Reserved.</p>
+      <p className='footer-copyright'>Copyright 2025 Tomato.com -All Right Reserved.</p>
     </div>
   )
 }
